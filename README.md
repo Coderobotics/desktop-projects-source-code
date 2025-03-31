@@ -1,5 +1,5 @@
 # desktop-projects-source-code
-Browse (35) desktop application written in C#.Net, VB.Net with MSSQL, and MS-Access Database.
+Download desktop applications written in C#.Net, VB.Net with MSSQL, and MS-Access Database.
 
 SPA Salon Massage Center Management
 Mess Management Software
