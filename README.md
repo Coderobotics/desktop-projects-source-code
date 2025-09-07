@@ -39,4 +39,13 @@ Account Express
 
 
 More details and download link:
-https://www.coderobotics.com/product-category/desktop-application
+https://www.aspscriptsonline.com/product-category/desktop-application
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
